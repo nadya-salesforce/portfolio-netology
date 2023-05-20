@@ -1,5 +1,8 @@
 # Nadya Pestova #
 ## Portfolio ##
+
+<img src="/images/111196866.png" alt="Nadya Pestova" style="height: 100px; width:100px;"/>
+
 ![Nadya Pestova](/images/111196866.png "Nadya Pestova")
 
 👋 Hi, I’m @nadya-salesforce<br />
