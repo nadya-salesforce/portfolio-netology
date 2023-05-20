@@ -1,7 +1,7 @@
 # Nadya Pestova #
 ## Portfolio ##
 
-<img src="/images/111196866.png" alt="Nadya Pestova" style="height: 100px; width:100px;"/>
+<img src="https://avatars.githubusercontent.com/u/111196866?v=4" alt="Nadya Pestova" style="height: 200px; width:200px;"/>
 
 ![Nadya Pestova](/images/111196866.png "Nadya Pestova")
 
